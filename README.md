@@ -40,18 +40,13 @@
 ---
 
 ## 📊 GitHub Stats
-![Erfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Erfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=notErfann&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notErfann&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iierfannn/)
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-telegram)
 
----
-
-## ✨ Fun Badges & Stats
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=your-username.page)
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=green)
