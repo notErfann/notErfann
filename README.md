@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Erfan
 
-![Header GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Header GIF](<img width="350" height="132" alt="image" src="https://github.com/user-attachments/assets/e042f3eb-8ca4-458c-bb3a-fdf78b187ce7" />
+)
 
 ## About Me
 - 🎓 Learning **Python, JavaScript, HTML, CSS**
