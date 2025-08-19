@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Erfan
 
-![Header GIF](<img width="350" height="132" alt="image" src="https://github.com/user-attachments/assets/e042f3eb-8ca4-458c-bb3a-fdf78b187ce7" />
+![Header GIF](<https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Erfan];This+is..;..my+Github..;" alt="Typing SVG"/>
 )
 
 ## About Me
