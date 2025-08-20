@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Erfan
 
-![Typing GIF](https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=500&lines=Hey..+I'm+Erfan;Welcome+to+my+GitHub;Let's+build+cool+stuff;)
+![Typing GIF](https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=FFCOCB&center=true&vCenter=true&width=500&lines=Hey..+I'm+Erfan;Welcome+to+my+GitHub;Let's+build+cool+stuff;)
 
 ---
 
