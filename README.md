@@ -34,7 +34,7 @@
 | Project | Description | Link |
 |---------|-------------|------|
 | About Me Website | Personal website showcasing my projects | [View](https://noterfann.github.io/About-Erfan/) |
-| Python Automation Scripts | Scripts to automate daily tasks | [View](https://github.com/your-username/python-scripts) |
+| Rock Paper Scissors | A normal rock paper scissors game | [View](https://noterfann.github.io/rock-paper-scissors/) |
 | JavaScript Mini Games | Fun and interactive browser games | [View](https://github.com/your-username/js-games) |
 
 ---
