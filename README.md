@@ -39,9 +39,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Erfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=notErfann&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notErfann&layout=compact&theme=tokyonight)
+![Erfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=notErfann&show_icons=true&theme=tokyonight&border_radius=15&hide_border=false)
 
 
 ---
