@@ -39,11 +39,8 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://raw.githubusercontent.com/notErfann/notErfann/master/profile-summary-card-output/tokyonight/0-profile-details.svg)
-![](https://raw.githubusercontent.com/notErfann/notErfann/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/notErfann/notErfann/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/notErfann/notErfann/master/profile-summary-card-output/tokyonight/3-stats.svg)
-![](https://raw.githubusercontent.com/notErfann/notErfann/master/profile-summary-card-output/tokyonight/4-productive-time.svg)
+![Followers](https://img.shields.io/github/followers/notErfann?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/notErfann?style=for-the-badge)
 
 ---
 
