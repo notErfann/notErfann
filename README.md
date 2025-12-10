@@ -39,8 +39,11 @@
 ---
 
 ## 📊 GitHub Stats
-![Erfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=notErfann&show_icons=true&theme=tokyonight&border_radius=15&hide_border=false)
-
+![](https://raw.githubusercontent.com/notErfann/notErfann/master/profile-summary-card-output/tokyonight/0-profile-details.svg)
+![](https://raw.githubusercontent.com/notErfann/notErfann/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/notErfann/notErfann/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/notErfann/notErfann/master/profile-summary-card-output/tokyonight/3-stats.svg)
+![](https://raw.githubusercontent.com/notErfann/notErfann/master/profile-summary-card-output/tokyonight/4-productive-time.svg)
 
 ---
 
