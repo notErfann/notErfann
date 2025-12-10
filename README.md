@@ -39,9 +39,13 @@
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
+
 ![Followers](https://img.shields.io/github/followers/notErfann?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/notErfann?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-$(curl%20-s%20https://api.github.com/users/notErfann%20%7C%20jq%20-r%20'.public_repos')-blue?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/notErfann/notErfann?style=for-the-badge)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/notErfann/notErfann?style=for-the-badge)
 
 ---
 
