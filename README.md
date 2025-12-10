@@ -35,7 +35,7 @@
 | About Me Website | Personal website showcasing my projects | [View](https://noterfann.github.io/About-Erfan/) |
 | Rock Paper Scissors | A normal rock paper scissors game | [View](https://noterfann.github.io/rock-paper-scissors/) |
 | JavaScript Quiz Game | Fun and interactive browser games | [View](https://noterfann.github.io/quizgame/) |
-| JavaScript Weather App | A Normal Weather app | [View](https://noterfann.github.io/quizgame/) |
+| JavaScript Weather App | A Normal Weather app | [View](https://noterfann.github.io/WeatherApp/) |
 ---
 
 ## 📊 GitHub Stats
