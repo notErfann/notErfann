@@ -35,12 +35,14 @@
 | About Me Website | Personal website showcasing my projects | [View](https://noterfann.github.io/About-Erfan/) |
 | Rock Paper Scissors | A normal rock paper scissors game | [View](https://noterfann.github.io/rock-paper-scissors/) |
 | JavaScript Quiz Game | Fun and interactive browser games | [View](https://noterfann.github.io/quizgame/) |
-
+| JavaScript Weather App | A Normal Weather app | [View](https://noterfann.github.io/quizgame/) |
 ---
 
 ## 📊 GitHub Stats
 ![Erfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=notErfann&show_icons=true&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notErfann&layout=compact&theme=tokyonight)
+
 
 ---
 
